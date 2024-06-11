@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghulam913-adil&label=Profile%20views&color=0e75b6&style=flat" alt="ghulam913-adil" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ghulam913-adil" alt="ghulam913-adil" /></a> </p>
+
 - 🔭 I’m currently working on **APIs Integrations with Microsoft PowerBi**
 
 - 🌱 I’m currently learning **Big Data Architecture and advance Analytics**
